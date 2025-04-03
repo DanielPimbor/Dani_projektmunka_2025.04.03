@@ -1,0 +1,22 @@
+body{
+    background-image: url(1269171.jpg);
+  }
+h1{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-style: italic;
+    font-size: 80px;
+    background-color: rgb(105, 0, 0);
+    font-weight: bold;
+}
+th{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: rgb(105, 0, 0);
+
+}
+
+
